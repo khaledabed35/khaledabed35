@@ -37,14 +37,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledabed35&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledabed35&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabed35&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 ### 📫 How to reach me
 * **Portfolio:** [Visit My Portfolio](https://your-portfolio-url.vercel.app)
