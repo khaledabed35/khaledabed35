@@ -40,6 +40,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khaledabed35&theme=radical" alt="GitHub Streak" />
 </p>
+---
+
 ### 📫 How to reach me
 * **Portfolio:** [Visit My Portfolio](https://your-portfolio-url.vercel.app)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
